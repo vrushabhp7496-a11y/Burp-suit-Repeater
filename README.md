@@ -56,6 +56,84 @@
 
 ---
 ## Practical Exapmle: 
+1. The Practical example in tryhack room iclude
+2. Capturing the request using proxy
+3. Send it to repeater
+4. Edit and set the value FlagAuthorised: True
+5. See the scrrenshots below for requet and response i got
+---
+<img width="1426" height="664" alt="Screenshot 2026-05-03 092530" src="https://github.com/user-attachments/assets/aca601d2-43a8-4d0e-afab-d37b154bb544" />
+
+---
+
+<img width="709" height="570" alt="Screenshot 2026-05-03 092613" src="https://github.com/user-attachments/assets/a8d078ad-5a93-4ab2-84cd-cb00c3fb9690" />
+
+---
+<img width="768" height="358" alt="Screenshot 2026-05-03 092702" src="https://github.com/user-attachments/assets/4a9e837d-ffc8-437b-968c-87874044addd" />
+
+---
+
+<img width="388" height="241" alt="Screenshot 2026-05-03 092733" src="https://github.com/user-attachments/assets/ba6335f4-f99d-4aae-9680-9b1af464e7fe" />
+
+---
+
+## Practical challange 2:
+- In this challange we tasked to visit the ip adress provided
+- Navigate through products where numeric value endpoint
+- Capture this numeric value in Intercepter and send it to repeatre
+- Manuplate the value until error 500 occure
+
+  ---
+
+## Motive of this example 2 is
+  - To check input validation
+  - Error handling - Dos attack
+  - Logic flaws
+  - Here the most important thing is what should be the valid server response these are as follows
+      1. 200 ok
+      2. 404 not found
+      3. 400 bad request
+   
+  ---
+
+  For Further analysis see the screenshot below
+
+  ---
+
+  <img width="567" height="89" alt="Screenshot 2026-05-03 093550" src="https://github.com/user-attachments/assets/8ebeae78-84c3-47be-9167-fceb4f85e240" />
+
+  ---
+
+  <img width="1001" height="601" alt="Screenshot 2026-05-03 093605" src="https://github.com/user-attachments/assets/a0399d22-13b8-4b60-892c-410dbd19769a" />
+
+  ---
+
+  <img width="707" height="284" alt="Screenshot 2026-05-03 093755" src="https://github.com/user-attachments/assets/a7a9c91b-690b-4c86-868a-47ea59cbf3fd" />
+
+  ---
+
+  <img width="768" height="552" alt="Screenshot 2026-05-03 093804" src="https://github.com/user-attachments/assets/e8b70eb2-f2d7-4029-b5c4-b84fc8224de2" />
+
+
+  ---
+ ## OUTCOME OF THIS PROJECT IS AS FOLLWS:
+ 1. WE LEARNED WHAT IS REPEATER
+ 2. HOW TO CAPTURE REQUEST SEND TO REPEATER
+ 3. EDIT REQUEST VALUE
+ 4. TEST INPUT VALIDATION
+ 5. TEST SERVER RESPONSE TO UNRECCONGNIZED VALUES
+
+---
+
+- We will discuss Repeater once again in Race condition module which is advanced vulnerability.
+- We will see another feature of repeater tab in Race condition module.
+
+---
+
+THANK YOIU
+
+
+
 
 
 
