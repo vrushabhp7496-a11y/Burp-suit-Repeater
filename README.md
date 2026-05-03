@@ -76,6 +76,20 @@
 <img width="388" height="241" alt="Screenshot 2026-05-03 092733" src="https://github.com/user-attachments/assets/ba6335f4-f99d-4aae-9680-9b1af464e7fe" />
 
 ---
+- By doing above practicle i leraned following things
+1. This is IDOR
+2. Broken access control
+3. Header injection
+4. Privilage escalation
+
+---
+
+- Valid server response should be 
+1. 403 Forbidden
+2. 401 unauthorized
+3. 400 Bad request
+
+---
 
 ## Practical challange 2:
 - In this challange we tasked to visit the ip adress provided
