@@ -90,9 +90,10 @@
   - Error handling - Dos attack
   - Logic flaws
   - Here the most important thing is what should be the valid server response these are as follows
-      1. 200 ok
-      2. 404 not found
-      3. 400 bad request
+      1. 200 ok Request sucessfull
+      2. 404 not found Does not exsist
+      3. 400 bad request Cliend side eroor
+      4. 422 Validation failed Incorrect value
    
   ---
 
